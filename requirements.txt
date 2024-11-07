@@ -1,0 +1,17 @@
+joblib
+matplotlib
+numpy
+onnx
+opencv_python
+pandas
+Pillow
+PyYAML
+requests
+scipy
+seaborn
+setuptools
+thop
+torch
+torchvision
+tqdm
+wandb
